@@ -8,5 +8,5 @@ The projects under this challenge rely heavily upon browser APIs, most of which 
 **Day-1: Drumkit👉** 
 https://sowjanya-105.github.io/Drum-Kit-Website/
 <br><br>
-**Day-2: Javascript (Dark Neumorphism) Clock** 
+**Day-2: Javascript (Dark Neumorphism) Clock 👉**  https://sowjanya-105.github.io/Javascript30-Coding-Challenge/
 <br><br>
