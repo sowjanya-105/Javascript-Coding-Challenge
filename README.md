@@ -1,7 +1,7 @@
-# Web Dev Snippets
-This repository contains all the code snippets that I practise to polish my web development skills. <br/>
-I will be developing one website/component each day using HTML, CSS, Javascript, DOM, JQuery, Node JS, React JS or APIs. 
-<br><br>
+# Javascript Coding Challenge
+This is a JS coding challenge where I will be developing one website each day using Javascript, DOM, JQuery and a lot more. 
+This challenge was taken up in order to strengthen my Java Script skills.
+
 
 # The website links of the projects are given below:
 **1. Drumkit👉** 
